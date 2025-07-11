@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Takoyaki",
+    "origin": "Japan",
+    "story": "Crispy octopus-filled balls from Osaka, Japan — a street food icon.",
+    "local_version": "Use paneer cubes instead of octopus and cook in appe pan.",
+    "image": "takoyaki.jpg"
+  },
+  {
+    "name": "Arepas",
+    "origin": "Venezuela",
+    "story": "Cornmeal patties stuffed with cheese, beans or meat — soft and crisp!",
+    "local_version": "Use makki atta with paneer or rajma as filling.",
+    "image": "arepas.jpg"
+  },
+  {
+    "name": "Gimbap",
+    "origin": "South Korea",
+    "story": "Korean rice rolls wrapped in seaweed, filled with veggies or egg.",
+    "local_version": "Use roti strips to wrap rice + sabzi mix.",
+    "image": "gimbap.jpg"
+  }
+]
